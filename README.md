@@ -1,6 +1,6 @@
 
 
-## How to reproduce Mixing_Separating
+## How to reproduce Two-stage Fine-tuning (TFT)
 
 
 Following the original implementation, it consists of 2 steps:
